@@ -1,0 +1,11 @@
+name: "Meso Home"
+output_dir: "docs"
+navbar:
+  title: "Alpine Mesocarnivor Analysis Home"
+  left:
+  - text: "Home"
+    href: index.html
+output:
+  html_document:
+    theme: cosmo
+

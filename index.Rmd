@@ -1,0 +1,35 @@
+---
+title: " "
+output: 
+  html_document
+---
+
+
+<br><br><br><br/>
+
+
+## Mesocarnivor Analysis Home Page:
+
+<br>
+
+### Data summary plots and tables
+### Spatial count model results
+### Occupancy estimates
+### Occupancy habitat across study areas
+
+<br>
+
+
+<br>
+
+### Links to data analysis:
+
+[Summary plots](https://fieldofhats.github.io/mesoDataPlots/index.html)
+
+Summary tables - stand by
+
+[SC model results](https://fieldofhats.github.io/SC_Intro_summary/index.html)
+
+Occupancy Model Results - stand by
+
+Occupancy Habitat Results - stand by
